@@ -40,4 +40,4 @@ Zafarali Ahmed
 
 # Acknowledgements
 
-We would like to extend our gratitude to our TA, Karissa Chan, for sharing her knowledge with us and helping us create this project. We would also like to thank our team mentors Zafirali, and Silvia for lending us their expertise during our weekly meetings. Finally, we would like to thank the AI4Good Lab for bringing us together and giving us access to the education and resources needed to create our project! 
+We would like to extend our gratitude to our TA, Karissa Chan, for sharing her knowledge with us and helping us create this project. We would also like to thank our team mentors Zafarali, and Silvia for lending us their expertise during our weekly meetings. Finally, we would like to thank the AI4Good Lab for bringing us together and giving us access to the education and resources needed to create our project! 
